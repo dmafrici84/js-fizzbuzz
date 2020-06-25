@@ -1,0 +1,33 @@
+div {
+  padding: 0 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.fizz {
+  color: coral;
+}
+
+.buzz {
+  color: skyblue;
+}
+
+.fizzbuzz {
+  color: #a00;
+}
+
+.lista {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  line-height: 1.5;
+  font-size: 17px;
+}
